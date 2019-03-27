@@ -2,7 +2,7 @@
 
 ## Installation
 
-1. Clone or Download the Repository then extract the files
+1. Clone or Download the Repository
 
 2. In this folder, start up a simple HTTP server to serve up the site files on your local computer. Python has some simple tools to do this, and you don't even need to know Python. For most people, it's already installed on your computer.
 
